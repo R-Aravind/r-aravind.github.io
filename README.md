@@ -1,6 +1,6 @@
 ## 🙋‍♂️ Hi There, I'm Aravind
 
-I'm a final year student at College of Engineering Chengannur studying computer science. I am interested in learning and building complex applications. 
+I'm a CSE graduate from College of Engineering Chengannur, Kerala. I am interested in learning and building complex applications. 
 
 I have experience developing and deploying software ranging from simple web applications to machine learning services. 
 
