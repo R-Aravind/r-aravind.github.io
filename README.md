@@ -6,8 +6,6 @@ I have experience developing and deploying software ranging from simple web appl
 
 I'm looking for opportunities to work with those who are willing to share their knowledge as much as I want to learn.
 
-Want to hire me? Check out my [resume](https://r-aravind.github.io/resume/resume.pdf)
-
 *****************
 ### Reach Me
 
