@@ -1,5 +1,7 @@
 ## 🙋‍♂️ Hi There, I'm Aravind
 
+![image](https://user-images.githubusercontent.com/44097855/230086628-a5ab2cf7-d67c-475a-994d-d569e0f6af2f.png)
+
 I'm a CSE graduate from College of Engineering Chengannur, Kerala. I am interested in learning and building complex applications. 
 
 I have experience developing and deploying software ranging from simple web applications to machine learning services. 
