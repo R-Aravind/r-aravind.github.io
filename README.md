@@ -1,18 +1,13 @@
 ## 🙋‍♂️ Hi There, I'm Aravind
 
-![image](https://user-images.githubusercontent.com/44097855/230086628-a5ab2cf7-d67c-475a-994d-d569e0f6af2f.png)
-
-I'm a CSE graduate from College of Engineering Chengannur, Kerala. I am interested in learning and building complex applications. 
-
-I have experience developing and deploying software ranging from simple web applications to machine learning services. 
+I'm an Associate Software Development Engineer at JUSPAY, building high availability payment systems at scale. 
 
 I'm looking for opportunities to work with those who are willing to share their knowledge as much as I want to learn.
 
 *****************
 ### Reach Me
 
-- 📧 [r.aravind.2077@gmail.com](mailto:r.aravind.2077@gmail.com)
-- 📧 [aravind.r@outlook.in](mailto:aravind.r@outlook.in)
+- 📧 [hey@r-aravind.com](mailto:hey@r-aravind.com)
 - 📞 (+91) 94960 29837 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/r--aravind)
 
