@@ -1,6 +1,6 @@
 ## 🙋‍♂️ Hi There, I'm Aravind
 
-I'm an Associate Software Development Engineer at JUSPAY, building high availability payment systems at scale. 
+I'm a Software Development Engineer at JUSPAY, building high availability payment systems at scale. 
 
 I'm looking for opportunities to work with those who are willing to share their knowledge as much as I want to learn.
 
