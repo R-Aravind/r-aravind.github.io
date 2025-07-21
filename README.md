@@ -7,8 +7,8 @@ I'm looking for opportunities to work with those who are willing to share their 
 *****************
 ### Reach Me
 
-- 📧 [hey@r-aravind.com](mailto:hey@r-aravind.com)
+- 📧 [r.aravind.work@gmail.com](mailto:r.aravind.work@gmail.com)
 - 📞 (+91) 94960 29837 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/r--aravind)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/r-aravind)
 
 *****************
